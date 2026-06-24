@@ -40,6 +40,6 @@ The ESP8266 reads temperature and humidity data from the DHT11 sensor and rainfa
 - Remote Sensing Systems
 - IoT-based Smart Systems
 
--Sambhav Jain  
+Sambhav Jain  
 B.Tech Electronics and Communication Engineering  
 BITS Pilani, Hyderabad Campus
