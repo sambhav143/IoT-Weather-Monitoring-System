@@ -26,7 +26,6 @@ This project is an IoT-based Weather Monitoring System developed using ESP8266, 
 
 - Arduino IDE
 - Blynk IoT Platform
-- C++
 
 ## Working
 
